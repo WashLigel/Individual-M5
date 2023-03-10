@@ -5,7 +5,7 @@
     "prompt-sync": "^4.2.0"
   },
   "name": "individual5",
-  "description": "Projeto individual módulo 5",
+  "description": "Projeto individual modulo 5",
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevairUva/Individual5.git"
+    "url": "git+https://github.com/WashLigel/Individual5.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DevairUva/Individual5/issues"
+    "url": "https://github.com/WashLigel/Individual5/issues"
   },
-  "homepage": "https://github.com/DevairUva/Individual5#readme"
+  "homepage": "https://github.com/WashLigel/Individual5#readme"
 }
